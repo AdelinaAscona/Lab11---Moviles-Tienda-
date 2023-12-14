@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e159c1cb58f469c49add6e885d883982, type: 3}
+  m_Name: Character2
+  m_EditorClassIdentifier: 
+  characterPref: {fileID: 5679220506860032515, guid: d1cdacba0440d3340a91be812c6cae1f,
+    type: 3}
+  image: {fileID: 21300000, guid: 31cdb3a287abcf848a0e8ac0ba5c6994, type: 3}
+  name: LilMoon
+  life: 5
+  PlayerVelocity: 0
+  score: 3
+  coins: 90
+  price: 20
